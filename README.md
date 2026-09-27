@@ -22,8 +22,7 @@ go, and you get transactions, cascading deletes, and indexing for free.
 
 ## Tag auto-mapping from descriptions
 
-This is the other half of your ask: users can attach a **description** to
-each tag (e.g. the `netherlands` tag might be described as "Applies to
+users can attach a **description** to each tag (e.g. the `netherlands` tag might be described as "Applies to
 Netherlands-based employees or operations, including the Rotterdam clinical
 partnership site."). When a search request doesn't specify tags explicitly,
 the system:
